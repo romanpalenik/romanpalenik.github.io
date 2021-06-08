@@ -12,8 +12,10 @@ img {
 
 .subject{
     margin: 7px;
+    cursor: pointer;
   }
 
 .myDIV:hover{
     cursor: pointer;
   }
+
